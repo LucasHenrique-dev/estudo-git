@@ -1,5 +1,5 @@
 # Solução 1
 
-Minha solução é:
+A questão é: 2 + 2 = ?
 
-2 + 2 = 4
+Resposta proposta: 2 + 2 = 4
